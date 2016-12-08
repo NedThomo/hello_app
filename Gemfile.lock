@@ -162,7 +162,7 @@ DEPENDENCIES
   listen (= 3.0.8)
   pg (= 0.18.4)
   puma (= 3.4.0)
-  rails (~> 5.0.0)
+  rails (= 5.0.0)
   sass-rails (= 5.0.5)
   spring (= 1.7.2)
   spring-watcher-listen (= 2.0.0)
@@ -173,4 +173,4 @@ DEPENDENCIES
   web-console (= 3.1.1)
 
 BUNDLED WITH
-   1.11.0
+   1.13.5
